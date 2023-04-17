@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F729020258411125837%2F&psig=AOvVaw22bJyQBTZTm7VG4Qi43y0T&ust=1681655281892000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOj-j9aLrP4CFQAAAAAdAAAAABAE)](https://Abhishekpapan1432.io)
+![logo](https://github.com/Abhishekpapan1432/Abhishekpapan1432/blob/main/1681721165411.jpg)
 <h1 align="center">Hi 👋, I'm Abhishek Bhattacharjee</h1>
 <h3 align="center">JU EE'26</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
