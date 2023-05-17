@@ -1,5 +1,5 @@
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
-![logo](https://github.com/Abhishek-465/Abhishek-465/blob/main/1681721165411.jpg)
+<img align="center" alt="Coding" width="400" src="https://canva.me/UWEshjJESzb ">
 <h1 align="center">Hi 👋, I'm Abhishek Bhattacharjee</h1>
 <h3 align="center">JU EE'26</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
