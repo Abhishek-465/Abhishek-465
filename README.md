@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://fb.com/abhishek bhattacharjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhishek bhattacharjee" height="30" width="40" /></a>
 <a href="https://instagram.com/abhishekpapan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishekpapan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/the bong music" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the bong music" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@papantastic_music " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the bong music" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
