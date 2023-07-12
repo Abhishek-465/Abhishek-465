@@ -1,4 +1,4 @@
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+<img align="center" src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 <img align="center" alt="Coding" width="400" src="20230517_235159_0000.png ">
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 <h1 align="center">Hi 👋, I'm Abhishek Bhattacharjee</h1>
