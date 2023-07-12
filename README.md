@@ -1,7 +1,7 @@
 <img align="center" src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 <img align="center" alt="Coding" width="400" src="20230517_235159_0000.png ">
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
-<h1 align="center">Hi 👋, I'm Abhishek Bhattacharjee</h1>
+<h1 align="center">Hi 👋🏻, I'm Abhishek Bhattacharjee</h1>
 <h3 align="center">JU EE'26</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
