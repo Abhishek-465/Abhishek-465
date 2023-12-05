@@ -44,7 +44,9 @@
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishek-465&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhishek-465&show_icons=true&locale=en&theme=tokyonight" alt="" /></p>
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-465&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight)
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-465&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" alt="" /></p>
 
