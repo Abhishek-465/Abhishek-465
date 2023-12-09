@@ -1,5 +1,19 @@
 
 <h1 align="center">Hi 👋🏻 Welcome to my Profile</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Abhishek....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+
+
+
+
+<img align="center" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
+
+
+
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://Ritwika-14.io)
@@ -11,7 +25,7 @@
 
 <h1 align="center"> 🔭  </h1>
 
-<h1 align="center">Hi 👋🏻, I'm Abhishek Bhattacharjee</h1>
+<h1 align="center">About me</h1>
 <h3 align="center">JU EE'26</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishek-465&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-465" /> </p>
