@@ -23,7 +23,7 @@
 
 
 
-<h1 align="center"> 🔭  </h1>
+<p align="center"> 🔭  </p>
 
 <h1 align="center">About me</h1>
 <h3 align="center">JU EE'26</h3>
