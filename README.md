@@ -34,7 +34,7 @@
 
 - 🔭 I’m currently working on **Web Development projects**
 
-- 🌱 I’m currently learning **Next JS,Typescript and DSA in Java**
+- 🌱 I’m currently learning **Next JS,Typescript,and DSA in Java**
 
 - 💬 Ask me about **Electrical Technology,Front end development,Machine learning,etc**
 
