@@ -1,47 +1,30 @@
-
-<h1 align="center">Hi 👋🏻 Welcome to my Profile</h1>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Abhishek....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋🏻;This+is+Abhishek....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+
+<h3 align="center">A passionate developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritwika-14&label=Profile%20views&color=0e75b6&style=flat" alt="ritwika-14" /> </p>
 
 
 
-
-<img align="center" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
-
-
-
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
-
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://Ritwika-14.io)
-
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
-<img align="center" alt="GIF" src="https://thumbs.gfycat.com/ActiveShabbyHarborseal-size_restricted.gif" width="900px" height="450px"  />
-
-
-
-
-
-<h1 align="center">About me</h1>
-<h3 align="center">JU EE'26</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishek-465&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-465" /> </p>
-
-
+<p align="left"> <a href="https://twitter.com/abhishek2003" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek2003?logo=twitter&style=for-the-badge" alt="abhi" /></a> </p>
 
 - 🔭 I’m currently working on **Web Development projects**
 
 - 🌱 I’m currently learning **Next JS,Typescript,and DSA in Java**
-
+  
 - 💬 Ask me about **Electrical Technology,Front end development,Machine learning,etc**
 
-- 📫 How to reach me **abhi.papan.b2003@gmail.com**
+- 📫 Mail ID- **abhi.papan.b2003@gmail.com**
 
 - ⚡ Hobbies **Singing,Guitar,and Music production**
 
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/abhishek bhattacharjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhishek bhattacharjee" height="30" width="40" /></a>
