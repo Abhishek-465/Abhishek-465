@@ -7,7 +7,7 @@
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritwika-14&label=Profile%20views&color=0e75b6&style=flat" alt="ritwika-14" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishek-465&label=Profile%20views&color=0e75b6&style=flat" alt="ritwika-14" /> </p>
 
 
 
