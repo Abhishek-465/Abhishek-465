@@ -44,7 +44,7 @@
 <h3 align="left">Github Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishek-465&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="" /></p>
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-465&show=reviews,prs_merged&theme=tokyonight)
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-465&show=prs_merged&theme=tokyonight)
 
 
 
