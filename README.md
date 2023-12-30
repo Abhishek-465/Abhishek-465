@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/abhishek2003" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek2003?logo=twitter&style=for-the-badge" alt="abhi" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development projects**
+- 🔭 I’m currently working on **Web Development projects.**
 
 - 🌱 I’m currently learning **Next JS,Typescript,and DSA in Java**
   
