@@ -41,6 +41,8 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+
 <br>
 <h3 align="left">My Badges:</h3>
 
@@ -48,13 +50,18 @@
 
 <br>
 <h3 align="center">Github Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishek-465&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="" /></p>
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek-465&show=prs_merged&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishek-465&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="" style="display: block; margin: auto;" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-465&show=prs_merged&theme=tokyonight" alt="" style="display: block; margin: auto;" />
+</p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-465&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" alt="" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-465&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" alt="" style="display: block; margin: auto;" />
+</p>
 
 <p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=Abhishek-465&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contributor Stats" /></p>
 
