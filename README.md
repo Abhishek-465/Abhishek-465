@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Web Development projects.**
 
-- 🌱 I’m currently learning **Next JS,Typescript,and basic ML**
+- 🌱 I’m currently learning **Web-3 and basic ML**
   
 - 💬 Ask me about **Electrical Technology,Front end development,Machine learning,etc**
 
