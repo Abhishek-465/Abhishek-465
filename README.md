@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Web-3 and basic ML.**
   
-- 💬 Ask me about **Electrical Technology,Front end development,Machine learning,etc**
+- 💬 Ask me about **Electrical Technology,Front end development,Machine learning,etc.**
 
 - 📫 Mail ID- **abhi.papan.b2003@gmail.com**
 
