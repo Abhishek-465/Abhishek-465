@@ -19,7 +19,7 @@
   
 - 💬 Ask me about **Electrical Technology,Front end development,Machine learning,etc.**
 
-- 📫 Mail ID- **abhi.papan.b2003@gmail.com**
+- 📫 Mail ID- **abhi.papan.b2003@gmail.com**.
 
 - ⚡ Hobbies **Singing,Guitar,and Music production.**
 
