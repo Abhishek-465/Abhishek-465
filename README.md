@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Electrical Technology and DSA.**
   
-- 💬 Ask me about **Electrical Technology,Full stack development,Problemsolving,etc.**
+- 💬 Ask me about **Electrical Technology, Full stack development, Problemsolving, etc.**
 
 - 📫 Mail ID- **abhi.papan.b2003@gmail.com**.
 
