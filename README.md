@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Web Development projects.**
 
-- 🌱 I’m currently learning **Electrica Technology and DSA.**
+- 🌱 I’m currently learning **Electrical Technology and DSA.**
   
 - 💬 Ask me about **Electrical Technology,Full stack development,Problemsolving,etc.**
 
