@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Real time projects.**
 
-- 🌱 I’m currently pursuing **Electrical Engineering.**
+- 🌱 I’m currently pursuing **Electrical Engineering.** Also learning **Web 2-3 development, DSA.**
   
 - 💬 Ask me about **Electrical Technology, Full stack development, Problemsolving, etc.**
 
