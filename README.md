@@ -13,9 +13,9 @@
 
 <p align="left"> <a href="https://x.com/AbhiVibes_1432?t=cGfS9hladfPQGWgT2isPuw&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek?logo=twitter&style=for-the-badge" alt="abhi" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development projects.**
+- 🔭 I’m currently working on **Real time projects.**
 
-- 🌱 I’m currently learning **Electrical Technology and DSA.**
+- 🌱 I’m currently pursuing **Electrical Engineering.**
   
 - 💬 Ask me about **Electrical Technology, Full stack development, Problemsolving, etc.**
 
