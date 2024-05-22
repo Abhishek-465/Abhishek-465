@@ -15,13 +15,11 @@
 
 - 🔭 I’m currently working on **Real time projects.**
 
-- 🌱 I’m currently pursuing **Electrical Engineering.** Also learning **Web 2-3 development, DSA.**
-  
-- 💬 Ask me about **Electrical Technology, Full stack development, Problemsolving, etc.**
+- 💬 Ask me about **Full stack development, Problem solving, etc.**
 
 - 📫 Mail ID- **abhi.papan.b2003@gmail.com**.
 
-- ⚡ Hobbies: **Singing,Guitar,and Music production.**
+- ⚡ Hobbies: **Singing,Guitar,and Cricket.**
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
