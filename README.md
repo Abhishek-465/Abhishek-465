@@ -47,7 +47,7 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
 <br>
-<h3 align="left">My Badges:</h3>
+<h3 align="left">Hacktoberfest-23 Badges:</h3>
 
 [![An image of @abhishek465's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishek465)](https://holopin.io/@abhishek465)
 
